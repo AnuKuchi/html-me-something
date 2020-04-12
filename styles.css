@@ -3,18 +3,33 @@ html {
     margin: 0;
     padding: 0;
 }
-body {
-    }
+
 header h1 {
         font-size: 2.5em;
+}
+        h1 {
         text-align: center;
 }
 
 h1 {
-    background-color: lightblue; 
+    background-color: rgb(119, 202, 230); 
     }
 img {
-    width: 72;
-    height: 84;
+    width: 50;
+    height: 50;
+}    
+h2 {
+    font-size: 2.5em;
+}
+    h2 {
+    text-align: center;
+}
+
+h2 {
+background-color: rgb(119, 202, 230); 
+}
+img {
+width: 50;
+height: 50;
 }    
 
